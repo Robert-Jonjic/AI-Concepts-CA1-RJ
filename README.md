@@ -17,8 +17,6 @@ The notebook contains:
 
 - [Graph Setup](#graph-setup)
 - [Algorithms Implemented](#algorithms-implemented)
-- [Results](#results)
-- [Conclusion](#conclusion)
 - [Requirements](#requirements)
 - [How to Run](#how-to-run)
 
@@ -31,18 +29,6 @@ The graph is represented as a dictionary, with heuristic values for A* providing
 - **BFS**: Simple path search without considering edge weights.
 - **Dijkstra's**: Finds the shortest weighted path using a priority queue.
 - **A\***: Optimizes pathfinding with heuristics for faster searches.
-
-## Results
-
-| Algorithm   | Path                                           | Time (seconds)           |
-|-------------|------------------------------------------------|---------------------------|
-| **BFS**     | `['Tipperary', 'Limerick', 'Galway', 'Castlebar', 'Sligo']` | 1.7e-05                  |
-| **Dijkstra**| `['Tipperary', 'Limerick', 'Galway', 'Castlebar', 'Sligo']` | 9.55e-05                 |
-| **A\***     | `['Tipperary', 'Limerick', 'Galway', 'Castlebar', 'Sligo']` | 5.33e-05                 |
-
-## Conclusion
-
-Each algorithm produced the same path, with BFS being the fastest in this setup, followed by A*, and Dijkstra's being slightly slower.
 
 ## Requirements
 
