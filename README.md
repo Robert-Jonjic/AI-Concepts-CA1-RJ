@@ -10,7 +10,7 @@ The notebook contains:
 2. **Algorithm Implementations**:
    - **BFS** for shortest unweighted path.
    - **Dijkstra's Algorithm** for shortest weighted path.
-   - **A* Algorithm** for optimized pathfinding with heuristic guidance.
+   - **A\* Algorithm** for optimized pathfinding with heuristic guidance.
 3. **Testing and Results**: Compares the path and execution time of each algorithm.
 
 ## Table of Contents
