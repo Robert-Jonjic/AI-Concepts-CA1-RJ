@@ -59,4 +59,3 @@ The graph is represented as a dictionary, with heuristic values for A* providing
 
 ---
 
-This README.md provides an overview of the project, the setup, and clear instructions on running the notebook.
